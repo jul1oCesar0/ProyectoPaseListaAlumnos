@@ -4,8 +4,7 @@ import viteLogo from '/vite.svg'
 import './index.css'
 
 function App() {
-  const [count, setCount] = useState(0)
-
+//cambios
   return (
     <>
     <h1 className='text-blue-950 text-2xl font-semibold'>
